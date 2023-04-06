@@ -1,2 +1,2 @@
 # DIO-DESAFIO-DE-PROJETO-GIT-HUB
-Primeiro repositório gerado no Git Hub 
+O meu primeiro desenvolvimento de repositório no Git Hub 
